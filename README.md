@@ -38,6 +38,7 @@ Credits
 
 License
 ---
+[![](https://github.com/Bitsits/Cup-A-Cube-Assets/raw/master/Blog/cc.png)][Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]  
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
 [.NET Framework 4.0]: http://www.microsoft.com/en-in/download/details.aspx?id=17718
